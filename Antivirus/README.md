@@ -4,3 +4,5 @@ Windows + r
 en la panatalla ejecutar debemos de escribir
 MRT
 y listo
+aqui deben de ir las imagenes
+asi es
